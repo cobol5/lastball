@@ -4,4 +4,4 @@ My first ever C project.Contains lot of unoptimized code
 and code duplication and redudandant code.It was in response 
 to challenge given by lab mentor , to develop snooker in C, and hence the result :p
 
-*requires Turbo C with graphics enabled to run *
+*requires Turbo C with graphics enabled to run*
